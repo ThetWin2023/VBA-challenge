@@ -31,3 +31,15 @@ Create a script that loops through all the stocks for each quarter and outputs t
 
 •	Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
 
+
+Code Reference Sources:
+
+https://www.wallstreetmojo.com/vba-conditional-formatting/#h-example-1
+
+https://stackoverflow.com/questions/51977446/vba-find-highest-value-in-a-column-c-and-return-its-value-and-the-adjacent-ce
+
+
+
+
+
+
