@@ -1,12 +1,20 @@
 # VBA-challenge
+
 Data Analytics Bootcamp Assignment 2 - VBA
 
+
 ' Data Analytics and Visualization Bootcamp
+
 ' Module 2 - VBA Scripting
+
 ' Version 1.1
+
 ' Assignment 2
+
 ' Name: Thet Win
+
 ' Date: May 5, 2024
+
 
 
 Instructions
