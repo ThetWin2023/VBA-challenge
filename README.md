@@ -17,9 +17,7 @@ Data Analytics Bootcamp Assignment 2 - VBA
 
 
 
-Instructions
-
-Create a script that loops through all the stocks for each quarter and outputs the following information:
+VBA Script that loops through all the stocks for each quarter and outputs the following information:
 
 •	The ticker symbol
 
